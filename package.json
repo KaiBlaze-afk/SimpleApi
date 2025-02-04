@@ -1,0 +1,11 @@
+{
+  "name": "SimpleApi",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "git@github.com:KaiBlaze-afk/SimpleApi.git",
+  "author": "KaiBlaze-afk <Kumaradarshh5@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
